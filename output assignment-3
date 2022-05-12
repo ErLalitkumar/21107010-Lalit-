@@ -1,0 +1,76 @@
+sol)1
+
+C:\Users\attri\PycharmProjects\pythonProject21\venv\Scripts\python.exe C:/Users/attri/PycharmProjects/pythonProject21/main.py
+Enter the number to be converted to binary: 8
+0b1000
+
+Process finished with exit code 0
+
+
+sol)2
+
+C:\Users\attri\PycharmProjects\pythonProject21\venv\Scripts\python.exe C:/Users/attri/PycharmProjects/pythonProject21/main.py
+Enter the expression 445*99
+44055
+
+Process finished with exit code 0
+
+sol)3
+C:\Users\attri\PycharmProjects\pythonProject22\venv\Scripts\python.exe C:/Users/attri/PycharmProjects/pythonProject22/main.py
+Enter the number n: 3
+Enter the number r: 6
+Enter the angle a: 30
+Enter the angle b: 45
+Enter the number x1: 35
+Enter the number x2: 22
+Enter the number y1: 12
+Enter the number y2: 34
+(3+4)(5) =  35
+n(n-1)/2 =  6.0
+4(pi)r^2 =  50.26548245743669
+sqrt(r(cosa)^2 + r(sinb)^2) =  2.1182497272847796
+y2-y1/x2-x1 =  -1.6923076923076923
+
+Process finished with exit code 0
+
+
+sol)4
+
+C:\Users\attri\PycharmProjects\pythonProject22\venv\Scripts\python.exe C:/Users/attri/PycharmProjects/pythonProject22/main.py
+In the range(5)
+0
+1
+2
+3
+4
+In the range(3, 10)
+3
+4
+5
+6
+7
+8
+9
+In the range(4 ,13, 3)
+4
+7
+10
+In the range(15, 5, -2)
+15
+13
+11
+9
+7
+In the range(5, 3)
+
+Process finished with exit code 0
+
+sol)5
+
+C:\Users\attri\PycharmProjects\pythonProject22\venv\Scripts\python.exe C:/Users/attri/PycharmProjects/pythonProject22/main.py
+Enter the number of hydrogen atoms: 3
+Enter the number of carbon atoms: 22
+Enter the number of oxygen atoms: 55
+1147.25592
+
+Process finished with exit code 0
