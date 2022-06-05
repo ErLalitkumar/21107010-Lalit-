@@ -15,15 +15,15 @@ print(t)
 
 print("QUESTION 2:\n")
 n ="Lalit kumar"
-x = 21107010
+x = "21107010"
 dep= "Mechanical Engineering"
-y= 10.0
-a=f" Hey, {n} here!" #f means fast.It helps in fast String formatting
-print(a)
-b=f" My SID is {x}"
-print(b)
-t=f" Iam from {dep} department and my CGPA is {y}"
-print(t)
+e='''Hey, ABC Here!
+My SID is 2110XXXX
+I am from XYZ department and my CGPA is 9.9'''
+e=e.replace('ABC',n)
+e=e.replace('2110XXXX',x)
+e=e.replace('XYZ',dep)
+print(e)
 
 
 print("QUESTION 3:\n") 
