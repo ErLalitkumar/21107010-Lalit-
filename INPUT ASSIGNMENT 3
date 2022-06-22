@@ -27,7 +27,7 @@ y1 = int(input("Enter the number y1: "))
 y2 = int(input("Enter the number y2: "))
 
 print("(3+4)(5) = ", (3+4)*5)
-print("n(n-1)/2 = ", (n*(n-1)/1))
+print("n(n-1)/2 = ", (n*(n-1)/2))
 print("4(pi)r^2 = ", 4*mt.pi*(r^2) )
 print("sqrt(r(cosa)^2 + r(sinb)^2) = ", ((r*((mt.cos(a))**2)) + (r*((mt.sin(b))**2)))**(0.5))
 if x2 == x1:
