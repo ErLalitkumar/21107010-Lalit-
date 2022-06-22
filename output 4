@@ -1,0 +1,38 @@
+C:\Users\attri\PycharmProjects\pythonProject15\venv\Scripts\python.exe C:/Users/attri/PycharmProjects/pythonProject15/main.py
+Enter the marks: 57
+Your grade is: C
+Enter the year: 2002
+2002 is not a leap year
+Q1 is: 3x10 = 
+30
+Right!
+Q2 is: 3x8 = 
+24
+Right!
+Q3 is: 9x6 = 
+22
+Wrong!
+Q4 is: 7x3 = 
+21
+Right!
+Q5 is: 9x6 = 
+54
+Right!
+Q6 is: 2x4 = 
+8
+Right!
+Q7 is: 10x2 = 
+20
+Right!
+Q8 is: 3x10 = 
+30
+Right!
+Q9 is: 6x9 = 
+54
+Right!
+Q10 is: 6x8 = 
+48
+Right!
+There are 177 candies in total
+
+Process finished with exit code 0
