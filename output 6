@@ -1,0 +1,46 @@
+C:\Users\attri\PycharmProjects\pythonProject16\venv\Scripts\python.exe C:/Users/attri/PycharmProjects/pythonProject16/main.py
+question 1
+enter the number28
+The number is a Perfect number!
+question 2
+enter string which you want to checks whether a passed string is palindrome or not.madam
+true
+question 3
+[1]
+[1, 1]
+[1, 2, 1]
+[1, 3, 3, 1]
+[1, 4, 6, 4, 1]
+[1, 5, 10, 10, 5, 1]
+question 4
+Yes
+question 5
+enter hyphen-separated sequence of wordslalit-amit-yoo-saurav
+amit-lalit-saurav-yoo
+question 6
+
+Student ID: SV12
+Student Name: $ Jean Garner
+
+Student ID: SV12
+Student Name: $ Jean Garner
+
+Student Name: $ Jean Garner
+Student Class: $ V
+question 7
+True
+False
+True
+False
+
+Check whether the said classes are subclasses of the built-in object class or not.
+True
+True
+question 8
+-10 2 8
+-7 -3 10
+question 9
+enter : la
+la - is Unbalanced
+
+Process finished with exit code 0
